@@ -1,1 +1,2 @@
-# bikeUsagePrediction
+# Sharing Bike Usage Prediction in South Korea with Data Combination
+The main purpose of this project is to forecast the hourly bike usage in Seoul, South Korea. Two datasets, one is from US and the other one is from KR will be used. US data and KR data will be combined as a combined data and KR data will be the other input data for models. Poisson GLM and Negative Binomial GLM will be used to develop models. 
